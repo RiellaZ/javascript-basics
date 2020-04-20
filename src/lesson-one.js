@@ -34,5 +34,3 @@ console.log(`X in the equation a*x+b=0 is: ${-b/a}`);*/
 
 //Request current time from a user in format HH:mm (HH is hour in a day from 00 to 23, mm are minutes in hour) and display how many hours and minutes are left until tomorrow.//
 
-let time = prompt('What time is it?');
-console.log(`There is ${} left until a day`);
